@@ -93,5 +93,6 @@ Finalmente, abre el archivo solucion_puzzle1.txt que se encuentra en la carpeta 
 
 **Referencia**
 Para más información sobre el paquete org.apache.hadoop.examples.dancing y los ejemplos de Hadoop, puedes consultar la documentación oficial:
-Hadoop Examples: org.apache.hadoop.examples.dancing
+
+**Hadoop Examples:** org.apache.hadoop.examples.dancing
 
