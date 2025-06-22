@@ -17,17 +17,24 @@ Acceso a la terminal de tu máquina local.
 **Pasos de Configuración y Ejecución**
 
 Sigue estos pasos para resolver un sudoku con Hadoop MapReduce:
-1. Descargar Archivos Necesarios
+
+**1. Descargar Archivos Necesarios**
+
 Necesitarás el archivo JAR de ejemplos de Hadoop y un archivo de texto que contenga el sudoku a resolver.
+
 Script de Ejemplo MapReduce:
 Descarga el archivo hadoop-examples-0.20.205.0.jar (o la versión compatible con tu configuración de Hadoop).
 Mueve este archivo a la misma carpeta donde se encuentra tu repositorio docker-hadoop.
+
 Archivo de Sudoku para Procesar:
 Descarga el archivo puzzle1.dta (que contiene el sudoku).
 Mueve este archivo a la misma carpeta donde se encuentra tu repositorio docker-hadoop.
-2. Copiar Archivos al Contenedor Hadoop
+
+**2. Copiar Archivos al Contenedor Hadoop**
+
 Desde tu máquina local, copia ambos archivos al directorio /tmp del contenedor namenode.
-Copia del JAR de ejemplos:
+
+**Copia del JAR de ejemplos:**
 Bash
 docker cp hadoop-examples-0.20.205.0.jar namenode:/tmp
 
