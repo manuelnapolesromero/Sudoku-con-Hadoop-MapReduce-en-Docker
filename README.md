@@ -52,7 +52,6 @@ Accede al terminal del contenedor namenode para ejecutar el trabajo de MapReduce
 Bash
 docker exec -it namenode bash
 
-
 **Navegar al directorio temporal:**
 Una vez dentro del contenedor, dirígete al directorio donde copiaste los archivos:
 Bash
