@@ -75,7 +75,7 @@ Bash
 hadoop jar hadoop-examples-0.20.205.0.jar sudoku puzzle1.dta > solucion_puzzle1.txt
 
 
-**Salir del contenedor namenode:**
+**Salir del contenedor namenode:**Bash exit
 Bash
 exit
 
