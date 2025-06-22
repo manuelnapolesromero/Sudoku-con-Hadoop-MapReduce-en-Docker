@@ -46,6 +46,7 @@ docker cp puzzle1.dta namenode:/tmp
 
 
 **3. Ejecutar MapReduce para Resolver el Sudoku**
+
 Accede al terminal del contenedor namenode para ejecutar el trabajo de MapReduce.
 **Ingresar al contenedor namenode:**
 Bash
