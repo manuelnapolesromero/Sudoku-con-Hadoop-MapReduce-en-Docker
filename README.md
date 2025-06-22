@@ -91,8 +91,5 @@ Ahora, el archivo solucion_puzzle1.txt debería estar en la carpeta de tu reposi
 
 Finalmente, abre el archivo solucion_puzzle1.txt que se encuentra en la carpeta de tu repositorio docker-hadoop para ver la solución del sudoku.
 
-**Referencia**
-Para más información sobre el paquete org.apache.hadoop.examples.dancing y los ejemplos de Hadoop, puedes consultar la documentación oficial:
 
-**Hadoop Examples:** org.apache.hadoop.examples.dancing
 
