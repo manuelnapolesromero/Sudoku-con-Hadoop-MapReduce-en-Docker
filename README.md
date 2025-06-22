@@ -39,6 +39,7 @@ Bash
 docker cp hadoop-examples-0.20.205.0.jar namenode:/tmp
 
 Si ya tienes este archivo en tu nodo Hadoop, puedes omitir este paso.
+
 **Copia del archivo de Sudoku:**
 Bash
 docker cp puzzle1.dta namenode:/tmp
