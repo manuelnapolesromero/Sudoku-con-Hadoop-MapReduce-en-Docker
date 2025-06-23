@@ -1,4 +1,4 @@
-# **Sudoku-con-Hadoop-MapReduce-en-Docker**
+# **Sudoku con Hadoop MapReduce en Docker**
 
 
 Este README detalla cómo utilizar un entorno Hadoop configurado con Docker para resolver sudokus mediante un ejemplo de MapReduce. El proceso incluye la descarga y copia de archivos necesarios, la ejecución del algoritmo y la visualización de los resultados.
